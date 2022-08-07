@@ -17,6 +17,7 @@ int main()
             }
             else cout << st.top();
             cout << endl;
+        }
         else if(x == "push")
         {
             int y ; cin >> y;
